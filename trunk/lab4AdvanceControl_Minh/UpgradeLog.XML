@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="lab4AdvanceControl">
+</Property><Property Name="Solution File" Value="C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\lab4AdvanceControl.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\lab4AdvanceControl.suo">
+</Property><Property Name="Date" Value="27 Tháng Bảy 2012">
+</Property><Property Name="Time" Value="23:17 CH">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="lab4AdvanceControl.sln" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl.sln">
+</Event><Event ErrorLevel="0" Project="" Source="lab4AdvanceControl.suo" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl.suo">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\lab4AdvanceControl.csproj" Description="Project file successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\lab4AdvanceControl.csproj">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\lab4AdvanceControl.csproj.user" Description="Project user file successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\lab4AdvanceControl.csproj.user">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\Bankschoice.aspx.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\Bankschoice.aspx.cs">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\Bankschoice.aspx.designer.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\Bankschoice.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\Login.aspx.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\Login.aspx.cs">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\Login.aspx.designer.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\Login.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\Bankschoice.aspx" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\Bankschoice.aspx">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\img\united-states-map.gif" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\img\united-states-map.gif">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\Login.aspx" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\Login.aspx">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\Web.config" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\Backup\lab4AdvanceControl\Web.config">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\lab4AdvanceControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="lab4AdvanceControl" Source="lab4AdvanceControl\lab4AdvanceControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="lab4AdvanceControl.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="lab4AdvanceControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="lab4AdvanceControl" Source="lab4AdvanceControl\lab4AdvanceControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

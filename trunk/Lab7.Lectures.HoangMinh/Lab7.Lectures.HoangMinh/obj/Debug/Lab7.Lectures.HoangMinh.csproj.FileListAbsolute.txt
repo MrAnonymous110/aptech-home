@@ -1,0 +1,10 @@
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\bin\Lab7.Lectures.HoangMinh.dll
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\bin\Lab7.Lectures.HoangMinh.pdb
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\obj\Debug\Lab7.Lectures.HoangMinh.dll
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\obj\Debug\Lab7.Lectures.HoangMinh.pdb
+C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\bin\Lab7.Lectures.HoangMinh.dll
+C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\bin\Lab7.Lectures.HoangMinh.pdb
+C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\obj\Debug\Lab7.Lectures.HoangMinh.dll
+C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh\obj\Debug\Lab7.Lectures.HoangMinh.pdb
