@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lab7.Lectures.HoangMinh">
+</Property><Property Name="Solution File" Value="C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh.suo">
+</Property><Property Name="Date" Value="12 Tháng Tám 2012">
+</Property><Property Name="Time" Value="22:22 CH">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lab7.Lectures.HoangMinh.sln" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Lab7.Lectures.HoangMinh.suo" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh.suo">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh.csproj" Description="Project file successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh.csproj">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh.csproj.user" Description="Project user file successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh.csproj.user">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Login.aspx.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\Login.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Login.aspx.designer.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\Login.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\UploadHistory.aspx.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\UploadHistory.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\UploadHistory.aspx.designer.cs" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\UploadHistory.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\bowman.css" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\bowman.css">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Login.aspx" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\Login.aspx">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\UploadHistory.aspx" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\UploadHistory.aspx">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Web.config" Description="File successfully backed up as C:\Users\Hoang Minh\Downloads\Web-asp1\Lab7.Lectures.HoangMinh\Backup\Lab7.Lectures.HoangMinh\Web.config">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lab7.Lectures.HoangMinh.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Lab7.Lectures.HoangMinh.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lab7.Lectures.HoangMinh" Source="Lab7.Lectures.HoangMinh\Lab7.Lectures.HoangMinh.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

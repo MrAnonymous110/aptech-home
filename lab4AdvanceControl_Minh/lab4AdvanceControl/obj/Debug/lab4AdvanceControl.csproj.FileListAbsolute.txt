@@ -1,0 +1,10 @@
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\lab4AdvanceControl\lab4AdvanceControl\bin\lab4AdvanceControl.dll
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\lab4AdvanceControl\lab4AdvanceControl\bin\lab4AdvanceControl.pdb
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\lab4AdvanceControl\lab4AdvanceControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\lab4AdvanceControl\lab4AdvanceControl\obj\Debug\lab4AdvanceControl.dll
+C:\Documents and Settings\c1011l0008\My Documents\Visual Studio 2008\Projects\lab4AdvanceControl\lab4AdvanceControl\obj\Debug\lab4AdvanceControl.pdb
+C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\lab4AdvanceControl\bin\lab4AdvanceControl.dll
+C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\lab4AdvanceControl\bin\lab4AdvanceControl.pdb
+C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\lab4AdvanceControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\lab4AdvanceControl\obj\Debug\lab4AdvanceControl.dll
+C:\Users\Hoang Minh\Downloads\Web-asp1\lab4AdvanceControl\lab4AdvanceControl\obj\Debug\lab4AdvanceControl.pdb
