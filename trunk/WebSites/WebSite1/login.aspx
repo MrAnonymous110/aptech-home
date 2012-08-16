@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true"
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/WebSite1/MasterPage.master" AutoEventWireup="true"
     CodeFile="login.aspx.cs" Inherits="login" %>
 
 <script runat="server">
