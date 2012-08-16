@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true"
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/WebSite1/MasterPage.master" AutoEventWireup="true"
     CodeFile="UploadHistory.aspx.cs" Inherits="UploadHistory" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
