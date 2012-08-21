@@ -3,30 +3,38 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>master</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="simple, grid, theme, free templates, web design, one page layout, slategray, steelblue, templatemo, CSS, HTML" />
     <meta name="description" content="Simple Grid is a one-page website template provided by templatemo.com" />
     <link href="css/templatemo_style.css" rel="stylesheet" type="text/css" />
-    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <link href="bowman.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
     <script type='text/javascript' src='js/jquery.min.js'></script>
-
     <script type='text/javascript' src='js/jquery.scrollTo-min.js'></script>
-
     <script type='text/javascript' src='js/jquery.localscroll-min.js'></script>
-
     <script type="text/javascript">
-        $(document).ready(function() {
+        $(document).ready(function () {
             $.localScroll();
         });
     </script>
-
 </head>
 <body>
+    <form id="xxx" runat="server">
     <div id="templatemo_wrapper">
         <div id="templatemo_header">
             <div id="site_title">
-                <a href="http://www.templatemo.com/page/1">Free CSS Template</a></div>
+                <a href="https://www.facebook.com/hoangminh.nguyen.vn">abc</a>
+            </div>
+            <div id="login">
+                <asp:ScriptManager ID="ScriptManager1" runat="server">
+                </asp:ScriptManager>
+                <asp:Timer ID="timerDirect" runat="server" Interval="1000" OnTick="timerDirect_Tick">
+                </asp:Timer>
+                <asp:Label ID="lblRemaindLogin" runat="server" Text=""></asp:Label>
+                <asp:ContentPlaceHolder ID="Login" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
         </div>
         <div id="templatmeo_menu">
             <ul>
@@ -40,8 +48,8 @@
         <div id="templatemo_main">
             <div id="home" class="main_box">
                 <div class="col col_23">
-                    <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
-        </asp:contentplaceholder>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
                 </div>
                 <div class="col col_13 no_margin_right">
                     <h3>
@@ -155,5 +163,6 @@
         Designed by <a href="http://www.templatemo.com" target="_parent">Free CSS Templates</a>
     </div>
     </div>
+    </form>
 </body>
 </html>

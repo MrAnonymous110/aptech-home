@@ -9,12 +9,7 @@ public partial class UploadHistory : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        if (Session["user"] == null)
-        {
-            lblUsername.Text = "redirect page login in 5 seconds...";
-            Response.AddHeader("refresh", "5,Login.aspx");
-        }
-        else
+        if (Session["user"] != null)
         {
             lblUsername.Text = "welcome:" + Session["user"];
         }
@@ -22,8 +17,9 @@ public partial class UploadHistory : System.Web.UI.Page
     protected void btnLogout_Click(object sender, EventArgs e)
     {
         Session.Remove("user");
-        Response.Cookies.Remove("Login");
-        Request.Cookies.Remove("Login");
-        Response.Redirect("login.aspx");
+        HttpCookie ckLogin = new HttpCookie("Login");
+        ckLogin.Expires = DateTime.Now;
+        Response.Cookies.Add(ckLogin);
+        Response.Redirect("Login.aspx");
     }
 }
