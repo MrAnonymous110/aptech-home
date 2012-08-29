@@ -1,18 +1,19 @@
-﻿
+﻿body
+{
+    background-image: url(images/templatemo_body.png);
+    background-repeat: repeat;
+}
 
 #login
-{  
-    margin-left:35%;
-    margin-right:35%;
-    margin-top:110px;
+{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 110px;
     text-align: center;
-    color:#ECBE50;
+    color: #DBAB3A;
     border-style: inset;
-    border-width: 5px; 
-    border-radius: 20px;
-    /*-webkit-border-radius: 20px;*/ 
-    /*-khtml-border-radius: 20px;*/
-    /*-moz-border-radius:20px;*/
-    box-shadow: #5F6B85 13px 13px 13px;
-    background:rgba(95, 107, 133,0.5);
+    border-width: 5px;
+    border-radius: 20px; /*-webkit-border-radius: 20px;*/ /*-khtml-border-radius: 20px;*/ /*-moz-border-radius:20px;*/
+    box-shadow: #727988 13px 13px 13px;
+    background: rgba(95, 107, 133,0.3);
 }
